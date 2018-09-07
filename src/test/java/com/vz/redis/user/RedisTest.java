@@ -1,4 +1,4 @@
-package com.victorzhang.redis.user;
+package com.vz.redis.user;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,8 +7,8 @@ import java.util.Map;
 import java.util.Random;
 
 import com.alibaba.fastjson.JSONObject;
-import com.victorzhang.redis.user.bean.User;
-import com.victorzhang.redis.user.service.UserService;
+import com.vz.redis.user.bean.User;
+import com.vz.redis.user.service.UserService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

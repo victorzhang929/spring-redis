@@ -1,4 +1,4 @@
-package com.victorzhang.redis.base.service;
+package com.vz.redis.base.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;

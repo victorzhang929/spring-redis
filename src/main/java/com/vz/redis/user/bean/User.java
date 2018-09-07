@@ -1,4 +1,4 @@
-package com.victorzhang.redis.user.bean;
+package com.vz.redis.user.bean;
 
 import java.io.Serializable;
 

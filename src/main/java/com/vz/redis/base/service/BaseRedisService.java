@@ -1,4 +1,4 @@
-package com.victorzhang.redis.base.service;
+package com.vz.redis.base.service;
 
 import java.util.List;
 import java.util.Map;
